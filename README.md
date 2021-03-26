@@ -1,2 +1,2 @@
 # textTikTakToe
-Simple Text version of Tik Tak Toe
+Simple Python text version of Tik Tak Toe
